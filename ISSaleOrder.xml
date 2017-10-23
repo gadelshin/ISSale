@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Order>
+    <id>3</id>
+    <customer>
+        <id>3</id>
+        <firstName>Владимир</firstName>
+        <secondName>Марков</secondName>
+        <phone>89170064590</phone>
+        <address>г.Казань, ул.Тульская, 14/144</address>
+        <nick>vladgen</nick>
+    </customer>
+    <status>INVOICE</status>
+    <goods>
+        <entry>
+            <key>
+                <description>Форм-фактор Моноблок, Материал корпуса Металл, ОС Android, ПРОЦЕССОР , Количество ядер 10, Частота 2.1 ГГц</description>
+                <id>6</id>
+                <model>XIAOMI</model>
+                <name>Redmi Note 4 64Gb Silver</name>
+                <price>16990.0</price>
+            </key>
+            <value>4</value>
+        </entry>
+        <entry>
+            <key>
+                <description>Форм-фактор Моноблок, Материал корпуса Металл, ОС Android t6.0 Marshmallow, ПРОЦЕССОР Snapdragon 820, Количество ядер 4, Частота 1.6/2.2 ГГц</description>
+                <id>5</id>
+                <model>SONY</model>
+                <name>Xperia XZ DS Mineral Black</name>
+                <price>39990.0</price>
+            </key>
+            <value>2</value>
+        </entry>
+    </goods>
+</Order>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Customer>
+    <id>1</id>
+    <firstName>Павел</firstName>
+    <secondName>Смирнов</secondName>
+    <phone>89171234567</phone>
+    <address>г.Казань, ул.Строителей-1, 23/52</address>
+    <nick>pasha</nick>
+</Customer>
